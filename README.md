@@ -7,3 +7,5 @@ User can delete the item by long click;
 User can add item by the add button;
 Items can stored automatically.
 User can change one item by click the item and Add things that needed.
+
+PerWork_SimpleTodo_APP.gif
